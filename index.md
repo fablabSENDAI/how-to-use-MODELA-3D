@@ -1,8 +1,11 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: 00.Introduction
+nav_order: 1
 ---
+
+# 00.Introduction
+<br><br>
 
 <img src="assets/03-1.jpg" width="640" alt="hi" class="inline"/><br>
 <br>
